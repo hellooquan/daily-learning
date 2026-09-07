@@ -1,0 +1,9 @@
+# LVGL board project (3rd-party lvgl/freetype sources + build artifacts) -
+# kept on disk, but not in this daily-learning repo.
+/0820/
+
+# Build artifacts
+*.o
+*.a
+*.so
+a.out
